@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  display: grid;
+  place-items: center;
+  height: 90vh;
+}
+.map {
+  width: 950px;
+  height: 450px;
+}
+.map_wrap {
+  height: 100%;
+}
